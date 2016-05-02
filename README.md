@@ -25,7 +25,7 @@ Clone or copy this repository into the packages directory. By default, the packa
 * Windows: %APPDATA%/Roaming/Sublime Text 2/Packages/
 * Linux: ~/.config/sublime-text-2/Packages/
 
-``For Sublime Text 3 use "3" instead of "2"``
+*For Sublime Text 3 use "3" instead of "2"*
 
 #Rules of the plugin
 
