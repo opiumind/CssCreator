@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "File",
+        "mnemonic": "F",
+        "id": "file",
+        "children":
+        [
+            { "command": "create_css", "caption": "Create CSS File" }
+        ]
+    }
+]
